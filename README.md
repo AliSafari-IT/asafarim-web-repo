@@ -1,5 +1,12 @@
 # ASafariM - Full Stack Clean Architecture Solution
 
+A modular, scalable full-stack solution built with .NET, React/Angular, and other modern technologies.
+
+[![GitLab Repository Forks](https://img.shields.io/gitlab/forks/AliSafari-IT/asafarim-webapp?label=Forks&logo=gitlab&style=flat)](https://gitlab.com/AliSafari-IT/asafarim-webapp)
+
+[View Repository on GitLab](https://gitlab.com/AliSafari-IT/asafarim-webapp.git)
+
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) ![.NET](https://img.shields.io/badge/.NET-9.0-blue) ![React](https://img.shields.io/badge/React-Typescript-blue)
 
 Welcome to the ASafariM Full Stack Clean Architecture Solution! 🚀
